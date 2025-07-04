@@ -57,7 +57,7 @@ const Index = () => {
             Luciana Prazeres
           </h1>
           <p className="text-xl md:text-2xl text-warm-600 mb-6 animate-fade-in" style={{ animationDelay: '0.3s' }}>
-            Psicóloga CRP XX/XXXXX
+            Psicóloga CRP 02/12552
           </p>
           <p className="text-2xl md:text-3xl font-playfair text-warm-600 mb-10 animate-fade-in" style={{ animationDelay: '0.6s' }}>
             Apoiando sua jornada de saúde mental com cuidado e conexão
@@ -324,7 +324,7 @@ const Index = () => {
       <footer className="py-16 px-8 bg-warm-800 text-warm-200">
         <div className="max-w-6xl mx-auto text-center">
           <p className="text-lg font-playfair mb-6">Luciana Prazeres</p>
-          <p className="text-sm mb-4">CRP XX/XXXXX | Psicóloga</p>
+          <p className="text-sm mb-4">CRP 02/12552 | Psicóloga</p>
           <p className="text-sm mb-6">Rua da Angustura, 126 - Sala 105</p>
           <p className="text-xs opacity-75 mb-6">
             Este site segue as diretrizes do Conselho Federal de Psicologia para divulgação de serviços psicológicos.
